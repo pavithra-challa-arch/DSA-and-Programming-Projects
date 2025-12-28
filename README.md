@@ -15,4 +15,5 @@ Java Projects
 C / C++ Projects
 Calculator
 A simple console-based Calculator implementing arithmetic operations.
+
 Skills demonstrated: Arrays, functions, loops, problem-solving, console I/O, logical thinking.
